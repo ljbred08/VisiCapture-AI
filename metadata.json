@@ -1,0 +1,5 @@
+{
+  "name": "VisiCapture AI - Video Contact Extractor",
+  "description": "A high-performance video analysis tool using Gemini 3 to extract, clean, and organize contact details (names, emails, phones) from visual footage with human-like accuracy.",
+  "requestFramePermissions": []
+}
